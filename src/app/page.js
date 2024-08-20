@@ -48,6 +48,7 @@ export default function Home() {
       </main>
       <footer>
         <p>Developed by <strong>Eduardo Alves</strong> 🍁</p>
+        <p>para maria rita</p>
       </footer>
     </>
   );
