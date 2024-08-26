@@ -4,7 +4,7 @@ import "./globals.css";
 const fontFamily = Saira({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Projeto Web",
+  title: "Pedido IRECUSAVEL",
   description: "Eduardo Alves",
 };
 

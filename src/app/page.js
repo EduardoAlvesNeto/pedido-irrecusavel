@@ -31,14 +31,13 @@ export default function Home() {
   const handleAlert = () => {
     alert('Está marcado!')
     console.log('Sim clickado')
-
   }
 
   return (
     <>
       <main className="main">
         <div className="title">
-          <h1><strong>Cuzin</strong> quando eu for em patu?</h1>
+          <h1>Quer <strong>Namorar</strong> comigo?</h1>
           <h3>Ps: Se sair do site a resposta vai ser <strong className="afirmation">SIM</strong></h3>
         </div>
         <div className="buttons">
@@ -48,7 +47,6 @@ export default function Home() {
       </main>
       <footer>
         <p>Developed by <strong>Eduardo Alves</strong> 🍁</p>
-        <p>para maria rita</p>
       </footer>
     </>
   );
